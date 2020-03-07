@@ -1,6 +1,3 @@
-# Homework2
+# Updated Profile
 
-Hello Person grading papers!
-
-
-Thanks for taking time to grade this homework!  This class is pretty rad.
+This is an update to the profile, with a simple design based on my resume.
